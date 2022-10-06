@@ -105,7 +105,7 @@ a {
 /* Hero */
 .hero {
   height: 600px;
-  background: url('../img/image.jfif') no-repeat top right;
+  background: url('../img/hero.jpg') no-repeat top right;
   background-size: 100% 770px;
   width: 100%;
   position: relative;
@@ -164,7 +164,7 @@ a {
 }
 
 .trending-search-tags a {
-  color: #333;
+  color: #999;
   transition: all 0.5s;
 }
 
