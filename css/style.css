@@ -171,3 +171,8 @@ a {
 .trending-search-tags a:hover {
   color: #fff;
 }
+
+/* Images */
+.images {
+  margin: 2rem 3rem;
+}
