@@ -176,3 +176,26 @@ a {
 .images {
   margin: 2rem 3rem;
 }
+
+/* Media queries */
+@media (max-width: 900px) {
+  .nav-search-form {
+    display: none;
+  }
+
+  .hero {
+    background-size: 200% 700px;
+  }
+
+  .hero-container {
+    max-width: 90%;
+  }
+
+  .category-nav {
+    display: none;
+  }
+
+  .images {
+    margin: 0.5rem;
+  }
+}
